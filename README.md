@@ -76,6 +76,8 @@ The transformed Beer Advocate data was put into an sqlite file: beer_advocate_20
 
 The transformed RateBeer Data was put into an sqlite file: RateBeer_scrape.sqlite
 
+The code for the webscrape of Untappddata is in the scrape_untappd.ipynb and data is stored in top_beers_untappd_combined_df.csv and .sqlite files.
+
 The Load.ipynb file was used to coordinate table headers across our data frames so when they were loaded into pgAdmin, all queries could work. 
 
 The beer_table_schema.sql shows the table creation for loading our csv files into pgAdmin. 
