@@ -55,7 +55,8 @@ These values were clean so they were used as is. Turned into dataframe, .csv, an
 Once the data was cleaned and table headers were all synced the dataframes were written to sqlite files. Using pgAdmin, tables were created to build the schema for our csv files. The corresponding files were then uploaded into their respective tables. 
 
 
-
+![Image of pgAdmin]
+(https://github.com/nowlansavage/beer_project/blob/master/PGAdmin_Query.png)
 
 #### Use Case
 
