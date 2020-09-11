@@ -23,3 +23,12 @@ CREATE TABLE brewers_guild(
 	"address" varchar,
 	"city" varchar,
 	"state" varchar)	
+
+CREATE TABLE beer_rank2017(
+	"index" int,
+	"rank" float,
+	"beer" varchar,
+	"count" float,
+	"abv" varchar,
+	"score" float,
+	"style" varchar)
